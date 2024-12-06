@@ -147,7 +147,7 @@ blockquote {
 
 #infinite {
   background-color: #222;
-  background-image: url(../img/cyberpunk-urban-scenery\ \(1\).jpg);
+  background-image: url(../img/concrete_jungle_by_boldcat_dbmfmux.jpg);
   background-repeat: no-repeat;
   height: 100vh;
   min-height: 375px;
@@ -251,8 +251,8 @@ blockquote {
 .tm-section-title {
   font-size: 3.6rem;
   font-weight: normal;
-  /* border-radius: 10px;
-  background-color: rgb(237, 232, 222);
+  border-radius: 80px;
+  /* background-color: rgb(237, 232, 222);
   margin-bottom: 30px; */
 }
 
@@ -281,7 +281,7 @@ blockquote {
 
 @media (max-width: 991px) {
   #testimonials {
-    background-image: url(../img/infinite-loop-02-mobile.jpg);
+    background-image: url(../img/LordEsports\ \(1\).jpg);
   }
 }
 
